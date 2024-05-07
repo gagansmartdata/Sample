@@ -8,8 +8,8 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import com.google.android.material.composethemeadapter3.Mdc3Theme
-import com.sdm.mediacard.R
 import com.sdei.base.BaseActivity
+import com.sdm.mediacard.R
 import com.sdm.mediacard.databinding.ActivityLoginBinding
 import com.sdm.mediacard.presentation.loginsignupflow.forgotpassword.ForgotPasswordPage
 import com.sdm.mediacard.presentation.loginsignupflow.forgotpassword.ForgotPasswordViewModel
