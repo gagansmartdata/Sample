@@ -2,7 +2,7 @@ package com.sdei.domaindata.common
 
 object Constants {
 
-    const val BASE_URL = "http://3.135.226.205:8085/"
+    const val BASE_URL = "http://your_base_url.com/"
 
     const val PARAM_COIN_ID = "coinId"
 }
