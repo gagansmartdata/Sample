@@ -1,4 +1,4 @@
-# AppStarterSkeleton
+# Sample Code using Clean Architecture
 
 New clean architecture using 
 kotlin's flow, state flow, coroutines, Sealed classes, hilt dependency injection.
